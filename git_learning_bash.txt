@@ -13,3 +13,6 @@ git diff file_name
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
+git reset --hard commit_id
+git reflog
+
