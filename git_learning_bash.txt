@@ -3,3 +3,9 @@ git config --global user.email "your email"
 mkdir folder_name
 pwd
 git init
+把大象放到冰箱需要3步
+Unix的哲学是“没有消息就是好消息”
+git add file_name
+git commit -m "your commit message"
+git status
+git diff file_name
