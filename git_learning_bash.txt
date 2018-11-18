@@ -16,3 +16,6 @@ Git is free software distributed under the GPL.
 git reset --hard commit_id
 git reflog
 
+Working Directory 工作区
+stage 暂存区
+
