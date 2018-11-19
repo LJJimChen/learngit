@@ -19,3 +19,9 @@ git reflog
 Working Directory 工作区
 stage 暂存区
 
+git checkout -- <file>
+git reset HEAD <file>
+
+rm test.txt
+
+ls -al ~/.ssh
